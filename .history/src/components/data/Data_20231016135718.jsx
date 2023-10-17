@@ -1,0 +1,15 @@
+import axios from 'axios';
+import React from 'react';
+    
+const Data = () => {
+    const getProducts = ()=>{
+        return axios
+    }
+    return (
+        <div>
+            
+        </div>
+    );
+};
+
+export default Data;

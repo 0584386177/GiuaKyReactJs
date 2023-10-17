@@ -1,0 +1,75 @@
+{
+ products =  [
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aea8e1f0c15a4358a83fdf69aff64ac4_9366/adidas_Basketball_Tee_Grey_IN7566_21_model.jpg",
+      "name": "ADIDAS BASKETBALL TEE",
+      "price": 1000000,
+      "sale": 500000,
+      "size": "M"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e3d0005f4ec4bf1a652af9d0012c756_9366/Donovan_Mitchell_Graphic_Tee_White_II7786_25_model.jpg",
+      "name": "DONOVAN MITCHELL GRAPHIC TEE",
+      "price": 800000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3ea23642dfe640579360af42012429db_9366/Harden_Travel_Hoodie_Black_IC0218_21_model.jpg",
+      "name": "HARDEN TRAVEL HOODIE",
+      "price": 1800000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3ea23642dfe640579360af42012429db_9366/Harden_Travel_Hoodie_Black_IC0218_21_model.jpg",
+      "name": "HARDEN TRAVEL HOODIE",
+      "price": 1800000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ccefec16cd04d5fb707af9c0164ec67_9366/Select_Summer_Camp_Jersey_Grey_IL9792_22_hover_model.jpg",
+      "name": "SELECT SUMMER CAMP JERSEY",
+      "price": 1100000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a9f9a3c5822a45a1ab46af9c017b28e3_9366/Select_Warm-up_Jersey_Grey_IM4211_22_hover_model.jpg",
+      "name": "SELECT WARM-UP JERSEY",
+      "price": 700000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d7726ff9583f4adea754af910024cce5_9366/Select_Summer_Shorts_Burgundy_IM4207_21_model.jpg",
+      "name": "SELECT SUMMER SHORTS",
+      "price": 700000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ecbe21115b534334924eaf91004d1700_9366/Select_Summer_Camp_Jersey_Yellow_IL2320_21_model.jpg",
+      "name": "SELECT SUMMER CAMP JERSEY",
+      "price": 770000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f8c735e0d0974aee888fafc80099c4c0_9366/Designed_for_Training_Pro_Series_Strength_Shorts_Red_IL1454_25_model.jpg",
+      "name": "DESIGNED FOR TRAINING PRO SERIES STRENGTH SHORTS",
+      "price": 1800000,
+      "sale": 500000,
+      "size": "L"
+    },
+    {
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/82c4313ad0944816bfafafc6010de036_9366/Train_Icons_3-Stripes_Training_Hoodie_Blue_IJ8117_21_model.jpg",
+      "name": "TRAIN ICONS 3-STRIPES TRAINING HOODIE",
+      "price": 1800000,
+      "sale": 500000,
+      "size": "L"
+    }
+  ]
+  
+}
